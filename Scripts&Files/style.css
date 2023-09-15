@@ -51,6 +51,7 @@ body {
     font-family: 'Quicksand';
     color: white;
     background: var(--dark-black);
+    cursor: none
 }
 
 .main-cont {
